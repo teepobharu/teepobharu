@@ -39,7 +39,7 @@ Working with web technolgies and more . . .
 
 ## My Blogs 📖
 <!-- MEDIUM:START -->
-- [REST CLIENT : Portable API Collection](https://medium.com/@teepob.haru/rest-client-portable-api-collection-a35c8a3f2037?source=rss-6eaedfde39aa------2)
+- [REST CLIENT : Portable API Collection](https://medium.com/bright-days/rest-client-portable-api-collection-a35c8a3f2037?source=rss-6eaedfde39aa------2)
 - [Manage Python Dependencies [Pipenv]](https://medium.com/bright-days/manage-python-dependencies-pipenv-2dbbc70929c2?source=rss-6eaedfde39aa------2)
 - [Choose Right Query Tool —  DBeaver vs Datagrip](https://medium.com/bright-days/choose-right-query-tool-dbeaver-vs-datagrip-1ca123926344?source=rss-6eaedfde39aa------2)
 - [[Basic] Docker image  Dockerfile — SQL Server with custom prefill DB script](https://medium.com/bright-days/basic-docker-image-dockerfile-sql-server-with-custom-prefill-db-script-8f12f197867a?source=rss-6eaedfde39aa------2)
