@@ -2,15 +2,14 @@
 
 
 <p align='center'>
-
-<img src="https://media-exp1.licdn.com/dms/image/C5103AQFoIH3jATTdoQ/profile-displayphoto-shrink_400_400/0?e=1602115200&v=beta&t=bhgUdzUM7EVLMGg4VXXyIPr_1j0X63HpAEqLwgUsn0Q">
+    <img src="https://avatars1.githubusercontent.com/u/38217535?s=400&u=b34c7db922ee4c72f44b7d98b96eb13142e7aead&v=4" alt="me" width="50">
 </p>
 
 <p align='center'>
-<a href="https://medium.com/@teepob.haru"><img height="50" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/BrightGowl"><img height="50" src="https://raw.githubusercontent.com/teepobharu/teepobharu/master/icons/twitter.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/teepob-haru/">
-<img height="50" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+    <a href="https://medium.com/@teepob.haru"><img height="50" src="https://raw.githubusercontent.com/teepobharu/teepobharu/7beb3bfca43002707d8d199a5c0592b3d33084ff/icons/medium.svg"/></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/BrightGowl"><img height="50" src="https://raw.githubusercontent.com/teepobharu/teepobharu/master/icons/twitter.svg"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/teepob-haru/">
+    <img height="50" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <!-- <a href="https://kaggle.com/teepobharu" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="teepobharu" height="40" /></a> -->
 </p>
 
@@ -39,10 +38,10 @@ Working with web technolgies and more . . .
 
 ## My Blogs 📖
 <!-- MEDIUM:START -->
-- [Docker ~ Hello TeamCity](https://medium.com/bright-days/docker-hello-teamcity-b3123083a5b8?source=rss-6eaedfde39aa------2)
 - [REST CLIENT : Portable API Collection](https://medium.com/bright-days/rest-client-portable-api-collection-a35c8a3f2037?source=rss-6eaedfde39aa------2)
 - [Manage Python Dependencies [Pipenv]](https://medium.com/bright-days/manage-python-dependencies-pipenv-2dbbc70929c2?source=rss-6eaedfde39aa------2)
 - [Choose Right Query Tool —  DBeaver vs Datagrip](https://medium.com/bright-days/choose-right-query-tool-dbeaver-vs-datagrip-1ca123926344?source=rss-6eaedfde39aa------2)
+- [[Basic] Docker image  Dockerfile — SQL Server with custom prefill DB script](https://medium.com/bright-days/basic-docker-image-dockerfile-sql-server-with-custom-prefill-db-script-8f12f197867a?source=rss-6eaedfde39aa------2)
 <!-- MEDIUM:END -->
 
 
