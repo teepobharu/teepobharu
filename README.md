@@ -6,7 +6,7 @@
 </p>
 
 <p align='center'>
-    <a href="https://medium.com/@teepob.haru"><img height="50" src="https://raw.githubusercontent.com/teepobharu/teepobharu/7beb3bfca43002707d8d199a5c0592b3d33084ff/icons/medium.svg"/></a>&nbsp;&nbsp;
+    <a href="https://medium.com/@teepob-h"><img height="50" src="https://raw.githubusercontent.com/teepobharu/teepobharu/7beb3bfca43002707d8d199a5c0592b3d33084ff/icons/medium.svg"/></a>&nbsp;&nbsp;
     <a href="https://twitter.com/BrightGowl"><img height="50" src="https://raw.githubusercontent.com/teepobharu/teepobharu/master/icons/twitter.svg"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/teepob-haru/">
     <img height="50" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
